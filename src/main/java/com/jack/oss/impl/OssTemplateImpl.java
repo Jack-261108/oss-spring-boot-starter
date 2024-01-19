@@ -17,8 +17,6 @@ import java.util.List;
 
 /**
  * @author Jack
- * @Desc
- * @Date 2023/7/26/12:46:24
  **/
 @RequiredArgsConstructor
 public class OssTemplateImpl implements OssTemplate {

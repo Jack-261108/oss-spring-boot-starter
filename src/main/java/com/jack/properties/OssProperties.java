@@ -5,8 +5,6 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
  * @author Jack
- * @Desc
- * @Date 2023/7/26/12:40:51
  **/
 @Data
 @ConfigurationProperties(prefix = "oss")

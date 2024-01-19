@@ -19,8 +19,6 @@ import org.springframework.context.annotation.Bean;
 
 /**
  * @author Jack
- * @Desc
- * @Date 2023/7/26/12:49:34
  **/
 @AutoConfiguration
 @EnableConfigurationProperties(OssProperties.class)

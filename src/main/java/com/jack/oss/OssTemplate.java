@@ -9,8 +9,6 @@ import java.util.List;
 
 /**
  * @author Jack
- * @Desc
- * @Date 2023/7/26/12:45:18
  **/
 public interface OssTemplate {
     /**
